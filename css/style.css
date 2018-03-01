@@ -1,0 +1,25 @@
+/*css rule format
+selector {
+    property: value;
+}*/
+
+
+div {
+    display: block;
+    width: 200px;
+    height: 200px;
+    border: 2px solid #222;
+    box-sizing: border-box;
+    float: left;
+    background-color: blue;
+    margin: 10px;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+.one {
+    background-color: green;
+    
+}
